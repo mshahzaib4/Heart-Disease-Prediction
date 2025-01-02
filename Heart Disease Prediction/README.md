@@ -78,17 +78,6 @@ cd heart-disease-prediction-app
   <li>Slope of the Peak Exercise ST Segment: Specify the slope of the peak exercise ST segment.</li>
   <li>Number of Major Vessels Colored by Fluoroscopy (0-3): Indicate the number of major vessels colored by fluoroscopy (0-3).</li>
 </ul>
- <h2>License</h2>
-
-  <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-
-  <p>Thank you for using our Heart Disease Prediction App! Your feedback and contributions are highly appreciated.</p>
-
-  <h2>Contributing</h2>
-
-  <p>We welcome contributions! Feel free to explore the code, enhance the application, or address issues. Create a pull
-    request or open an issue to start a discussion.</p>
-
 
 </body>
 
